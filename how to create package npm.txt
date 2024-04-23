@@ -1,0 +1,11 @@
+create your package directory
+
+add js file
+
+npm ini //to create package.json
+
+npm install link 
+
+npm link (your package name inside package.json)
+
+will create node_modules
